@@ -87,4 +87,13 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 	</Item>
+	<Item Name="Read Measurement.vi" Type="VI" URL="../Read Measurement.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)Q!!!!%!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E!Q`````Q66&lt;GFU=Q!?!$@`````!!1A!)!!!!!!!1!%!!!!!1!!!!!!!!!]1(!!$A6*&lt;H.U=A!"!!5A!)!!!!!!!1!%!!!!!1!!!!!!!":736.")(*F=W^V=G.F)'ZB&lt;75A&lt;X6U!!"!1(!!(A!!*R&amp;$&lt;WZU=G^M972P=CZM&gt;GRJ9B.0=W.J&lt;'^T9W^Q:3ZM&gt;G.M98.T!!^0=W.J&lt;'^T9W^Q:3"P&gt;81!%5!+!!N.:7&amp;T&gt;8*F&lt;76O&gt;!!%!!!!(5!$!":$;'&amp;O&lt;G6M)#AR/C"$;'&amp;O&lt;G6M)$%J!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#6!!Q!@476B=X6S:7VF&lt;H1A6(FQ:3!I-$IA2H*F=86F&lt;G.Z+1!Y1(!!$A6*&lt;H.U=A!"!!5A!)!!!!!!!1!%!!!!!1!!!!!!!"*736.")(*F=W^V=G.F)'ZB&lt;75!!%"!=!!?!!!H%5.P&lt;H2S&lt;WRB:'^S,GRW&lt;'FC%U^T9WFM&lt;X.D&lt;X"F,GRW9WRB=X-!$E^T9WFM&lt;X.D&lt;X"F)'FO!!"5!0!!$!!$!!1!"A!(!!A!#1!+!!E!#Q!-!!U!$A-!!(A!!!U)!!!*!!!!$1I!!)U,!!!*!!!!!!!!!!A!!!!!!!!!#A!!!!A!!!!+!!!!E!!!!!!"!!]!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+	</Item>
 </LVClass>

@@ -23,6 +23,7 @@
 				<Item Name="Close Osciloscope Argument--cluster.ctl" Type="VI" URL="../Close Osciloscope Argument--cluster.ctl"/>
 				<Item Name="Autosetup Osciloscope Argument--cluster.ctl" Type="VI" URL="../Autosetup Osciloscope Argument--cluster.ctl"/>
 				<Item Name="Configure Channel OS Argument--cluster.ctl" Type="VI" URL="../Configure Channel OS Argument--cluster.ctl"/>
+				<Item Name="Read Measurement Argument--cluster.ctl" Type="VI" URL="../Read Measurement Argument--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -40,6 +41,7 @@
 			<Item Name="Close Osciloscope.vi" Type="VI" URL="../Close Osciloscope.vi"/>
 			<Item Name="Autosetup Osciloscope.vi" Type="VI" URL="../Autosetup Osciloscope.vi"/>
 			<Item Name="Configure Channel OS.vi" Type="VI" URL="../Configure Channel OS.vi"/>
+			<Item Name="Read Measurement.vi" Type="VI" URL="../Read Measurement.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
