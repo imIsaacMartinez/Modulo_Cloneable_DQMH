@@ -105,4 +105,13 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 	</Item>
+	<Item Name="Read Waveform.vi" Type="VI" URL="../Read Waveform.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)8!!!!$Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!&amp;%"5!!-.6W&amp;W:7:P=GUA2'&amp;U91!?!$@`````!!1A!)!!!!!!!1!%!!!!!1!!!!!!!!!]1(!!$A6*&lt;H.U=A!"!!5A!)!!!!!!!1!%!!!!!1!!!!!!!":736.")(*F=W^V=G.F)'ZB&lt;75A&lt;X6U!!"!1(!!(A!!*R&amp;$&lt;WZU=G^M972P=CZM&gt;GRJ9B.0=W.J&lt;'^T9W^Q:3ZM&gt;G.M98.T!!^0=W.J&lt;'^T9W^Q:3"P&gt;81!"!!!!"N!"A!65W^V=G.F)#AQ/C"$;'&amp;O&lt;G6M)$%J!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!'5!(!"*5;7VF&lt;X6U)#AR-$!Q-#"N=SE!!$B!=!!/"5FO=X2S!!%!"3!!A!!!!!!"!!1!!!!"!!!!!!!!%F:*5U%A=G6T&lt;X6S9W5A&lt;G&amp;N:1!!1%"Q!"Y!!#=21W^O&gt;(*P&lt;'&amp;E&lt;X)O&lt;(:M;7)44X.D;7RP=W.P='5O&lt;(:D&lt;'&amp;T=Q!/4X.D;7RP=W.P='5A;7Y!!&amp;1!]!!-!!-!"!!'!!=!#!!)!!E!#!!+!!M!$!!.!Q!!?!!!$1A!!!E!!!!.#A!!D1M!!!!!!!!!!!!!#!!!!!!!!!!+!!!!#!!!!!I!!!#1!!!!!!%!$A!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+	</Item>
 </LVClass>
