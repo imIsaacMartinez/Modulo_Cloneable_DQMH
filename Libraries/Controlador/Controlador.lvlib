@@ -121,6 +121,7 @@
 	</Item>
 	<Item Name="Class" Type="Folder">
 		<Item Name="Osciloscope.lvclass" Type="LVClass" URL="../Class/Osciloscope/Osciloscope.lvclass"/>
+		<Item Name="Tektronic.lvclass" Type="LVClass" URL="../Class/Tektronic/Tektronic.lvclass"/>
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 </Library>
