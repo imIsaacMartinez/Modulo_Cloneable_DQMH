@@ -31,6 +31,7 @@
 				<Item Name="Probe (Reply Payload)--cluster.ctl" Type="VI" URL="../Probe (Reply Payload)--cluster.ctl"/>
 				<Item Name="Read Measurement (Reply Payload)--cluster.ctl" Type="VI" URL="../Read Measurement (Reply Payload)--cluster.ctl"/>
 				<Item Name="Read Measurement 2 Channels (Reply Payload)--cluster.ctl" Type="VI" URL="../Read Measurement 2 Channels (Reply Payload)--cluster.ctl"/>
+				<Item Name="Read Waveform (Reply Payload)--cluster.ctl" Type="VI" URL="../Read Waveform (Reply Payload)--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
