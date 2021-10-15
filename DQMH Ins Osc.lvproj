@@ -14,6 +14,7 @@
 			<Item Name="Controlador.lvlib" Type="Library" URL="../Libraries/Controlador/Controlador.lvlib"/>
 		</Item>
 		<Item Name="Get Classes Names.vi" Type="VI" URL="../Libraries/Controlador/Get Classes Names.vi"/>
+		<Item Name="Set Class Instance.vi" Type="VI" URL="../Libraries/Controlador/Set Class Instance.vi"/>
 		<Item Name="Test Controlador API.vi" Type="VI" URL="../Libraries/Controlador/Test Controlador API.vi"/>
 		<Item Name="Test Factory Pattern.lvclass" Type="LVClass" URL="../Libraries/Controlador/Unit Test/Test Factory Pattern/Test Factory Pattern/Test Factory Pattern.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -180,6 +181,7 @@
 				<Item Name="Get File System Separator.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/sysinfo.llb/Get File System Separator.vi"/>
 				<Item Name="Get Header from TD__ogtk__jki_vi_tester.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/Get Header from TD__ogtk__jki_vi_tester.vi"/>
 				<Item Name="Get Last PString__ogtk__jki_vi_tester.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/Get Last PString__ogtk__jki_vi_tester.vi"/>
+				<Item Name="Get LV Class Default Value.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Get LV Class Default Value.vi"/>
 				<Item Name="Get LV Class Path.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Get LV Class Path.vi"/>
 				<Item Name="Get PString__ogtk__jki_vi_tester.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/Get PString__ogtk__jki_vi_tester.vi"/>
 				<Item Name="Get Refnum Type Enum from Data__ogtk__jki_vi_tester.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/Get Refnum Type Enum from Data__ogtk__jki_vi_tester.vi"/>
